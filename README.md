@@ -6,6 +6,7 @@ Spanish native / english fluent
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Israel7025&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Israel7025&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
