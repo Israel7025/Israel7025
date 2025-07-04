@@ -8,7 +8,11 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   20 mins         ████████████▒░░░░░░░░░░░░   49.05 %
+YAML         15 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
+Markdown     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
