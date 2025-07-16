@@ -16,7 +16,7 @@ JSON         29 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+https://wakatime.com/badge/user/90ae460c-118c-4adb-8801-8abe39bf7b94.svg
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Israel7025&theme=dark&hide_border=false)<br/>
