@@ -8,10 +8,10 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          9 hrs 36 mins   ████████████████████▓░░░░   82.91 %
-CSS          1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+SQL          10 hrs 15 mins  ███████████████████████▓░   94.06 %
+JavaScript   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
