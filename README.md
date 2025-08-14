@@ -8,9 +8,9 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          6 hrs 57 mins   ██████████████████▒░░░░░░   73.63 %
-Markdown     2 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+SQL          5 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.76 %
+Markdown     4 hrs 9 mins    ███████████░░░░░░░░░░░░░░   43.39 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
