@@ -8,8 +8,8 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    0 secs          ████████████████░░░░░░░░░   64.28 %
-HTML   0 secs          █████████░░░░░░░░░░░░░░░░   35.72 %
+HTML   0 secs          ███████████████████▓░░░░░   78.60 %
+CSS    0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
 ```
 
 <!--END_SECTION:waka-->
