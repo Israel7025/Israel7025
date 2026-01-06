@@ -8,9 +8,8 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-C++           7 hrs 39 mins   ████████████████████████▒   97.10 %
-JavaScript    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Vim Snippet   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+C++          7 hrs 36 mins   ████████████████████████▒   97.21 %
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
