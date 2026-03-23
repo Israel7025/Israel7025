@@ -8,11 +8,11 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 46 mins          ████████░░░░░░░░░░░░░░░░░   31.56 %
-Markdown     1 hr 38 mins          ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-Bash         53 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-YAML         27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-CSS          10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Markdown     2 hrs 5 mins          ███████████░░░░░░░░░░░░░░   44.14 %
+TypeScript   1 hr 34 mins          ████████▒░░░░░░░░░░░░░░░░   33.27 %
+Bash         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+CSS          10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+YAML         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
