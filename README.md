@@ -8,11 +8,11 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 58 mins         ████████████████▓░░░░░░░░   66.54 %
-TypeScript   1 hr 23 mins          ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Prisma       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown     5 hrs 17 mins         █████████████████████████   99.52 %
+Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
