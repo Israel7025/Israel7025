@@ -8,9 +8,8 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     10 hrs 29 mins        █████████████████████████   99.91 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   9 hrs 36 mins         █████████████████████████   99.99 %
+Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
