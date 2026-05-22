@@ -8,11 +8,7 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-Java         4 mins                ████████▓░░░░░░░░░░░░░░░░   34.20 %
-HTML         3 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-Markdown     3 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-Bash         1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Batchfile    0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Markdown   2 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
