@@ -8,10 +8,11 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 41 mins         █████████████░░░░░░░░░░░░   52.45 %
-C++          3 hrs 12 mins         █████████░░░░░░░░░░░░░░░░   35.85 %
-Markdown     49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JSON         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JavaScript   6 hrs 23 mins         ███████████████░░░░░░░░░░   60.03 %
+C++          3 hrs 12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+Markdown     49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+JSON         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
