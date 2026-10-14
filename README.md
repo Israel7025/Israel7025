@@ -8,11 +8,8 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         41 mins               ███████████████▒░░░░░░░░░   61.05 %
-Docker       17 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-JavaScript   7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   5 mins                █████████████████████████   99.83 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
