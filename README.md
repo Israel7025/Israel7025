@@ -8,7 +8,9 @@ Spanish native / english fluent
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   0 secs                █████████████████████████   100.00 %
+SQL      4 mins                ██████████████████▒░░░░░░   73.38 %
+JSON     1 min                 ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+Python   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
